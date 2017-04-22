@@ -1,0 +1,8 @@
+/Users/jschluchter/speak/gabmvcdemo/bin/Debug/netcoreapp1.1/gabmvcdemo.deps.json
+/Users/jschluchter/speak/gabmvcdemo/bin/Debug/netcoreapp1.1/gabmvcdemo.runtimeconfig.json
+/Users/jschluchter/speak/gabmvcdemo/bin/Debug/netcoreapp1.1/gabmvcdemo.runtimeconfig.dev.json
+/Users/jschluchter/speak/gabmvcdemo/bin/Debug/netcoreapp1.1/gabmvcdemo.dll
+/Users/jschluchter/speak/gabmvcdemo/bin/Debug/netcoreapp1.1/gabmvcdemo.pdb
+/Users/jschluchter/speak/gabmvcdemo/obj/Debug/netcoreapp1.1/gabmvcdemo.AssemblyInfo.cs
+/Users/jschluchter/speak/gabmvcdemo/obj/Debug/netcoreapp1.1/gabmvcdemo.dll
+/Users/jschluchter/speak/gabmvcdemo/obj/Debug/netcoreapp1.1/gabmvcdemo.pdb
